@@ -3,7 +3,7 @@
 *Desenvolvedor Full-Stack*
 
  🔭 Atualmente sou estágiario <br>
- 📖 Estou estudando Laravel <br>
+ 📖 Estou estudando React <br>
  🖥️ Cursando Engenharia de Software
 
 
