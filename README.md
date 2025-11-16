@@ -2,7 +2,7 @@
 
 *Desenvolvedor Full-Stack*
 
- 🔭 Atualmente sou estágiario <br>
+ 🔭 Analista de Cibersegurança <br>
  📖 Estou estudando React <br>
  🖥️ Cursando Engenharia de Software
 
